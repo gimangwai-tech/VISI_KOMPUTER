@@ -4,3 +4,5 @@
    https://jurnal.polinema.ac.id/index.php/jip/article/view/7046?utm_source=chatgpt.com
 3. ANALISIS PERBANDINGAN ALGORITMA REGION GROWING DAN OTSU THRESHOLDING PADA SEGMENTASI CITRA BUNGA
    https://journal.umg.ac.id/index.php/e-link/article/view/6008?utm_source=chatgpt.com
+4. Segmentasi Citra Menggunakan Algoritma K-Means Berbasis Particle Swarm Optimization
+   https://journal.universitasmulia.ac.id/index.php/metik/article/view/377?utm_source=chatgpt.com
